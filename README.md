@@ -1,6 +1,10 @@
 ### Oi! Eu sou o Quezada 😄
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Quezad4&show_icons=true&theme=dracula)
+
+<div>
+  <img height="180em" src = "https://github-readme-stats.vercel.app/api?username=Quezad4&show_icons=true&theme=dracula">
+  <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Quezad4&hide_progress=false&theme=dracula&layout=compact">
+</div>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-quezada/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateus_quezada/) [![Gmail](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateusquezada@gmail.com)
 #### Conhecimentos de Programação:
