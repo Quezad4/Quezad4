@@ -26,7 +26,7 @@
   <img align="center" alt="PostgreSQL" src = "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=whit" />
 </div>
 
-#### Conhecimento em Análise e Tratamento de Dados:
+#### Conhecimento em Análise e Tratamento de Dados (ETL):
 <div style ="display: inline_block">
 <img align="center" alt="Alteryx" src = "https://img.shields.io/badge/Alteryx-0078C0.svg?style=for-the-badge&logo=Alteryx&logoColor=white" />
 <img align="center" alt="Excel" src = "https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
